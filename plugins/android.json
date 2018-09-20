@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.parkering.app"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.parkering.app"
+    },
+    "cordova-plugin-browsersync": {
+      "PACKAGE_NAME": "com.parkering.app"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyAmQ6CF646Pt9kdsqZIsjXNwzrlHVOIo_c",
+      "PLAY_SERVICES_VERSION": "15.0.1",
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.parkering.app"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.parkering.app"
+    }
+  },
+  "dependent_plugins": {}
+}

@@ -1,0 +1,45 @@
+{
+  "_from": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk/tarball/2.7.0",
+  "_id": "cordova-plugin-googlemaps-sdk@2.7.0",
+  "_inBundle": false,
+  "_integrity": "sha512-LJlulKCtpI4WGOr5TWB0yxYa/Wx9xp6cfkIppFfhjXAGaizPZ5LTHEiwgpAulsUw+ty/CCr1nt/3PXQBM8T5NA==",
+  "_location": "/cordova-plugin-googlemaps-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk/tarball/2.7.0",
+    "rawSpec": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk/tarball/2.7.0",
+    "saveSpec": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk/tarball/2.7.0",
+    "fetchSpec": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk/tarball/2.7.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk/tarball/2.7.0",
+  "_shasum": "321df28463a7d9ddee76fc2d064c66a1f7a4bee6",
+  "_spec": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk/tarball/2.7.0",
+  "_where": "C:\\Users\\Xinmao\\parkeringsapp",
+  "author": {
+    "name": "Masashi Katsumata, Hirbod Mirjavadi"
+  },
+  "bugs": {
+    "url": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-googlemaps-sdk",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Google Maps SDK for iOS for Cordova (files are copied from Google)",
+  "homepage": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk#readme",
+  "name": "cordova-plugin-googlemaps-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk.git"
+  },
+  "version": "2.7.0"
+}
